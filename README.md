@@ -1,13 +1,9 @@
-# wisconsin_breast_cancer_model
+## wisconsin_breast_cancer_model
 Breast Cancer Machine Learning model
 
-Name : Krishaan Banga
-
-Assignment #2 (Git, GitHub, ML)
+## Assignment #2 (Git, GitHub, ML)
 
 I am using UCI ML Breast Cancer Wisconsin (Diagnostic) dataset from UCI machine learning repository. It will be loaded from sklearn.datasets
-
-Breast cancer is the most prevalent cancer in women in cities, and the second most common cancer in women in rural areas. We identify most breast cancers at an advanced stage is because of a lack of knowledge of the disease and the lack of a breast cancer screening program. 
 
 Breast cancer is the most prevalent cancer in women in cities, and the second most common cancer in women in rural areas. We identify most breast cancers at an advanced stage is because of a lack of knowledge of the disease and the lack of a breast cancer screening program.With this case study, I hope to show the possibilities of a Decision tree for healthcare analysis-based machine learning algorithms in the early detection of breast cancer through test results and features.
 
