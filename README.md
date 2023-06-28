@@ -1,7 +1,7 @@
 ## wisconsin_breast_cancer_model
 Breast Cancer Machine Learning model
 
-## Assignment #2 (Git, GitHub, ML)
+## Assignmen (Git, GitHub, ML)
 
 I am using UCI ML Breast Cancer Wisconsin (Diagnostic) dataset from UCI machine learning repository. It will be loaded from sklearn.datasets
 
@@ -17,5 +17,7 @@ For each attribute in the dataset, the Decision-Tree algorithm forms a node. The
 For evaluating the task in hand, we start at the root node and we work our way down the tree by following the corresponding node that meets our condition or decision.
 This process continues until a leaf node is reached. It contains the prediction or the outcome of the Decision Tree.
 
+## Model version 2 : ANN
 
+Artificial Neural Networks (ANNs) are useful due to their ability to recognize patterns, handle non-linear relationships, adapt and generalize to new information, automatically extract relevant features, scale with large datasets, perform parallel processing, automate tasks, and their versatility across various applications. Breast cancer detection using Artificial Neural Networks (ANN) is a commonly employed approach in medical imaging and diagnosis.
 
